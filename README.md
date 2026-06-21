@@ -1,0 +1,1 @@
+# Python-Tkinter-statistik-Hesaplay-c-
