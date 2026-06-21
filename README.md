@@ -24,4 +24,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 1. Bu depoyu bilgisayarınıza klonlayın:
 ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/proje-adiniz.git](https://github.com/KULLANICI_ADINIZ/proje-adiniz.git)
+   git clone [https://github.com/ormanemirhan/Python-Tkinter-statistik-Hesaplay-c-.git](https://github.com/ormanemirhan/Python-Tkinter-statistik-Hesaplay-c-.git)
